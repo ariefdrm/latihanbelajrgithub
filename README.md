@@ -1,2 +1,2 @@
 # latihanbelajrgithub
-Repository yang digunakan utk belajar dgthub
+Repository yang digunakan utk belajar github
