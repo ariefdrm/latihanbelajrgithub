@@ -1,7 +1,6 @@
 #include <iostream>
 
-int main (int argc, char *argv[])
-{
-  std::std::cout << "Halo Dunia, Saya Arief Darmawan" << std::endl;
+int main(int argc, char *argv[]) {
+  std::cout << "Halo Dunia, Saya Arief Darmawan" << std::endl;
   return 0;
 }
