@@ -1,4 +1,18 @@
+/** @format */
+
+body {
+  background-color: #121212;
+}
+
+.center-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
 h1 {
-	width: 200px;
-	height: 200px;
+  color: #ffffff;
+  font-size: 2rem;
+  font-family: Arial, sans-serif;
 }
